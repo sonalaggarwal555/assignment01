@@ -12,10 +12,17 @@ I would like to use Google APIs and maybe YouTube APIs for better user experienc
 
 There are 4 modules in this project:
 1.New User Signup Page - Whenever a new user enters the system,They have to create new login details. 
+
 2.Add New Car - Car owner has to insert car details into the system along with its pictures. 
+
 3.Main Page View - First Page with a grid view of cars,where renter can search according to there preferences.
+
 4.Cart View - This is the page where renter has shortlisted the cars to choose before contacting the owner.
+
 5.Email Alert - After selecting the car an email request is generated to Car owner,explaining that there is renter for there car and they can contact them if they like.
+
 6.Google Maps - This view involoves google maps APIs,where car owner can always the location of there car after renting it for security reasons.
+
 7.Customer Ratings and Review - At the end when renter has returned the car,they can leave there ratings and reviews based on there experiences.
+
 8.Payment View - On this page we can make the payment online.
